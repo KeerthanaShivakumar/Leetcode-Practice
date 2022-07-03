@@ -1,4 +1,5 @@
 #1299. Replace Elements with Greatest Element on Right Side - Easy
+#Random Pick
 '''
 Based on slicing the array
 '''
